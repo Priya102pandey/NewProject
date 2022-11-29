@@ -1,5 +1,5 @@
 .div{
-    background-image: url(/image1.jpg);
+    background-image: url(image1.jpg);
     
 }
 .div1{
@@ -43,7 +43,7 @@ h2{
     font-weight: bold;
 }
 .div3{
-    background-image: url(/image2.jpg);
+    background-image: url(image2.jpg);
     
 }
 .div4{
@@ -70,7 +70,7 @@ h2{
     
 }
 .div6{
-    background-image: url(/image3.jpg);
+    background-image: url(image3.jpg);
     
 }
 .div7{
